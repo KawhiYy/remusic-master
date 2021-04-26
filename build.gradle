@@ -28,4 +28,5 @@ task clean(type: Delete) {
     //test4 //test5
     //1-test7
     //test11
+    //test12
 }
