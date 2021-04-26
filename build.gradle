@@ -25,7 +25,7 @@ task clean(type: Delete) {
 //add一个6test
     //test2
 //test3
-    //test4 //test5
+    //test4 //test 8//test5
     //1-test7
     //test11
     //test12
